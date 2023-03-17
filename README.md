@@ -1,5 +1,8 @@
 # Animais Fantásticos
 
+![alewssandra github io_animais-fantasticos_](https://user-images.githubusercontent.com/56393487/225935983-23e634cb-d7b7-44ef-86bd-578d42a1bbf1.png)
+
+
 Animais Fantásticos é um site desenvolvido no curso de JavaScript ES6+ completo pela Origamid.
 <br>
 <a href="https://alewssandra.github.io/animais-fantasticos/">Live Preview</a>
